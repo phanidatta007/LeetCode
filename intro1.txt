@@ -1,4 +1,0 @@
-writing to the file line 1 
-writing to the file line 2 
-writing to the file line 3 
-writing to the file line 4 

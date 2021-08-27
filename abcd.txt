@@ -1,3 +1,0 @@
-
-Hi my name is Phani praveen Datta.
-This is My first python file writing.
